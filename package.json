@@ -1,0 +1,27 @@
+{
+  "name": "myproject",
+  "version": "0.0.1",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.8.1",
+    "gulp-autoprefixer": "*",
+    "gulp-connect": "*",
+    "gulp-cssmin": "*",
+    "gulp-imagemin": "*",
+    "gulp-sass": "*",
+    "gulp-sourcemaps": "*",
+    "gulp-rigger": "*",
+    "gulp-uglify": "*",
+    "gulp-watch": "*",
+    "imagemin-pngquant": "*",
+    "opn": "*",
+    "rimraf": "*",
+    "gulp-sprite-generator": "~0.2.3",
+    "gulp-bower": "0.0.10"
+  },
+  "dependencies": {
+    "gulp.spritesmith": "~2.6.0",
+  }
+}

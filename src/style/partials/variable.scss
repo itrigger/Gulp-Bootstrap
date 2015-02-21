@@ -1,0 +1,18 @@
+
+h1 {
+  font-size: 20px !important;
+  position: relative;
+  &:before {
+    display: block;
+    position: absolute;
+    @extend .icon-01;
+    content: "";
+    left: -30px;
+  }
+}
+body{
+
+}
+img {
+  width: 300px;
+}
